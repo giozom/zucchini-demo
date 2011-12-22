@@ -1,0 +1,7 @@
+app: CoreDataBooks.app
+template: '/Developer/Platforms/iPhoneOS.platform/Developer/Library/Instruments/PlugIns/AutomationInstrument.bundle/Contents/Resources/Automation.tracetemplate'
+
+devices:
+  iPhone 4:
+    UDID  : hey88thisdisc6efjust22097ac0sampled2udid
+    screen: retina_ios5
